@@ -1,0 +1,1 @@
+Generated takedown clips will go to this folder.

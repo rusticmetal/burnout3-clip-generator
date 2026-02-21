@@ -1,0 +1,8 @@
+__pycache__
+.venv
+video
+clips/*.webm
+clips/*.mp3
+data/normal/*.jpg
+data/takedown/*.jpg
+*.pth

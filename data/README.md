@@ -1,0 +1,1 @@
+Create your frames under /data/normal/ using `generate_frames.py`, then move the takedown frames over to /data/takedown/ using `move_frames.py`.
